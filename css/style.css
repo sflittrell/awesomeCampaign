@@ -1,0 +1,12 @@
+html {
+    max-width: 1000px;
+    margin:auto;
+    background-color: #1a6fbf;
+}
+footer {
+    background-color: #1a6fbf;
+}
+
+svg:hover {
+    fill: rgb(160, 25, 25);
+}
