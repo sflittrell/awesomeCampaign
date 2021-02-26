@@ -7,6 +7,10 @@ footer {
     background-color: #1a6fbf;
 }
 
-svg:hover {
-    fill: rgb(160, 25, 25);
+svg:hover path{
+    fill: #dc3545;
+}
+
+svg:hover polygon{
+    fill: #dc3545;
 }
