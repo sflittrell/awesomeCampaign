@@ -1,4 +1,12 @@
+html {
+    max-width: 1000px;
+    margin:auto;
+    background-color: #1a6fbf;
+}
+footer {
+    background-color: #1a6fbf;
+}
 
-/* .quoteBox {
-    background-color: rgba(225, 51, 54, 0.473);
-} */
+svg:hover {
+    fill: rgb(160, 25, 25);
+}
